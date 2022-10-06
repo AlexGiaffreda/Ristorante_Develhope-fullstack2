@@ -1,1 +1,44 @@
+RISTORANTE DEVELHOPE FULLSTACK 2
 
+MENU' VEGANO
+
+BEVANDE
+
+
+Latte vegetale caldo
+di soia o mandorla	                     € 2.10
+
+Latte di soia macchiato                  € 2.50
+
+Cioccolata calda                         € 3.00
+
+Tè e tisane                              € 2.50
+
+Estratti di frutta e verdura biologica   € 5.00
+
+Spremuta di arancia biologica            € 3.50
+
+Frullato di frutta                       € 4.70
+
+Succhi di frutta bio 20cl                € 4.00
+
+Tè freddi                                € 3.50
+
+Cola, lemonade, ginger lattina 33cl      € 2.50
+
+Bevande gassate 
+bottiglia 33cl aranciata, limonata,
+ cedrata, cola, chinotto, gazzosa	     € 2.50
+
+Calice di vino bianco/rosso
+ della casa                              € 3.50
+
+Calice di prosecco biologico             € 4.00
+
+Liquori e amari                          € 4.00
+
+Acqua minerale 1l                        € 2.50
+
+Acqua minerale 0,5l                      € 1.50
+
+Acqua minerale bicchiere                 € 0.50
